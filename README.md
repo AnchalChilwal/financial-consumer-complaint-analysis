@@ -67,11 +67,12 @@ Built a 3‑page Power BI dashboard analyzing complaint trends, product & issue 
 ![Dashboard](Financial%20Consumer%20Complaint%20Analysis/Dashboard/Financial%20Complaint%20Dashboard.pbix)
 
 ### Recommendations
-* Diversify revenue sources by increaing dependency on low revenue producing companies to minimize business risk.
-* Standardize sales team performance strategy by aligning revenue generation, win rate, and deal closure speed across all agents, and using top performers as benchmarks for training.
-* Improve quarterly consistency by analyzing Q1’s strong performance and replicating the same sales strategies across rest of the quarters.
-* Optimize product performance by improving underperforming products through better targeting or pricing strategies, while scaling high-performing GTX series products. 
-* Strengthen sales team efficiency balance by bridging the gap between high-volume performers and high-conversion performers to create a more balanced sales force.
+* Since **Managing an Account** is the top issue, banks should improve customer support workflows to reduce recurring complaints.
+* Focused should be on reducing complaints on California and other high‑volume states better branch training.
+* Since complaints peaked in 2022 and declined after 2023, institutions should analyze what drove the decline and reinforce those improvements.
+* Bank apps should be designed to provide easy account access while allowing customers to monitor all activity — including when, where, how, and who accessed their account — ensuring convenience without compromising security.
+* Customer support teams should receive regular training so they are well‑prepared to handle peak complaint periods effectively, ensuring consistent service quality even during high volumes.
+  
 
   
 ## Author
