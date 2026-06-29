@@ -45,15 +45,26 @@ Built a 3‑page Power BI dashboard analyzing complaint trends, product & issue 
 * Overall responses perftlcy align woth complaints.
 
 ## Data Transformation
+![Fact_ComplaintTable](Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Fact_Complaint%20Table.png)
+![Dim_ChannelTable](Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Dim_Channel.png)
+![Dim_LocationTable](/Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Dim_Location.png)
+![Dim_ProductTable](Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Dim_Product.png)
+![Dim_IssueTable](Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Dim_Issue.png)
+![Dim_DateTable](Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Dim_Date.png)
+![Dim_ResponseTable](Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Dim_Response.png)
 
+## Data Modeling
+![Executive Summary](Financial%20Consumer%20Complaint%20Analysis/Data%20Transformation%20Steps/Data%20Model.png)
 
 ## Dashboard
-![Executive Summary](CRM%20Sales%20Analysis/Dashboard/Executive%20Summary(Page%201).png)
-![Sales Team Analysis](CRM%20Sales%20Analysis/Dashboard/Sales%20Team%20Analysis(Page%202).png)
-![Quarter and Product Analysis](CRM%20Sales%20Analysis/Dashboard/Quarter%20%26%20Product%20Analysis(Page%203).png)
+![Executive Summary](Financial%20Consumer%20Complaint%20Analysis/Dashboard/Executive%20Summary.png)
+![Product & Issue Insight](Financial%20Consumer%20Complaint%20Analysis/Dashboard/Product%20%26%20Issue%20Insight.png)
+![Response Insight](Financial%20Consumer%20Complaint%20Analysis/Dashboard/Response%20Insight.png)
+![Deeper Analysis 1](Financial%20Consumer%20Complaint%20Analysis/Dashboard/Deeper%20Analysis%201.png)
+![Deeper Analysis 2](Financial%20Consumer%20Complaint%20Analysis/Dashboard/Deeper%20Analysis%202.png)
 
 ## PowerBI 
-![Dashboard](CRM%20Sales%20Analysis/CRM%20Sales/CRM%20Sales.pbix)
+![Dashboard](Financial%20Consumer%20Complaint%20Analysis/Dashboard/Financial%20Complaint%20Dashboard.pbix)
 
 ### Recommendations
 * Diversify revenue sources by increaing dependency on low revenue producing companies to minimize business risk.
